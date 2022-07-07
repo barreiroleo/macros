@@ -8,6 +8,7 @@ class Key:
     minus       = "\'KP_Subtract\'"
     space       = "\'space\'"
     tab         = "\'Tab\'"
+    up          = "\'Up\'"
     leader      = "\'space\'"
 
 def getactivewindow():
